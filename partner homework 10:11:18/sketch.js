@@ -1,4 +1,4 @@
-//worked with Gina
+//worked with Gina Liu
 
 var col = 0;
 var xPos = 0;
