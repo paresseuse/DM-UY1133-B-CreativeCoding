@@ -1,0 +1,45 @@
+{
+  "GoTHouses":[
+  {
+    "name": "royal houses",
+    "number":"9"
+  },
+ {
+    "name": "noble houses (crownlands)",
+    "number":"27"
+  },
+   {
+    "name": "noble houses (north)",
+    "number":"37"
+  },
+  {
+    "name": "noble houses (vale)",
+    "number":"24"
+  },
+  {
+    "name": "noble houses (riverlands)",
+    "number":"35"
+  },
+  {
+    "name": "noble houses (iron islands)",
+    "number":"18"
+  },
+  {
+    "name": "noble houses (westerlands)",
+    "number":"35"
+  },
+  {
+    "name": "noble houses (reach)",
+    "number":"25"
+  },
+   {
+    "name": "noble houses (stormlands)",
+    "number":"29"
+  },
+   {
+    "name": "noble houses (dorne)",
+    "number":"15"
+  }
+  ]
+}  
+  
